@@ -15,8 +15,6 @@
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-Davi%20Freire-%23FF9000">
   </a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/fsdavi/gobarber-web?color=%23FF9000">
-
   <a href="https://github.com/fsdavi/gobarber-web/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/fsdavi/gobarber-web?color=%23FF9000">
   </a>
